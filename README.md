@@ -1,6 +1,4 @@
 ### Calculator.js 
-- Eine Bibliothek, die nützliche Berechnungsfunktionen auf Basis gängiger Formeln enthält (Seitenverhältnis, Prozentberechnung, etc...)
-
 
 
 #### Erstellen Sie eine Calculator-Klasse mit folgenden
